@@ -1,3 +1,8 @@
+
+mine:DataBinding adapter etc quick develop
+
+
+origin author readme doc:
 # BindingCollectionAdapter
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter)
 
